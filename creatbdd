@@ -1,0 +1,24 @@
+CREATE DATABASE Operateur
+
+CREATE TABLE nom
+(
+    colonne1 type_donnees,
+    colonne2 type_donnees,
+    colonne3 type_donnees,
+    colonne4 type_donnees
+)
+CREATE TABLE prenom
+(
+    colonne1 type_donnees,
+    colonne2 type_donnees,
+    colonne3 type_donnees,
+    colonne4 type_donnees
+)
+
+CREATE TABLE habilitation
+(
+    colonne1 type_donnees,
+    colonne2 type_donnees,
+    colonne3 type_donnees,
+    colonne4 type_donnees
+)
